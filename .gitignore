@@ -1,0 +1,31 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env
+.venv/
+
+# Django stuff
+*.sqlite3
+staticfiles/
+media/
+
+# Migrations (optional, but do NOT ignore them in real projects)
+# */migrations/*
+# !*/migrations/__init__.py
+
+# IDE trash
+.vscode/
+.idea/
+*.swp
+
+# OS trash
+.DS_Store
+Thumbs.db
+
+.idea/
